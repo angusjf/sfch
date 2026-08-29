@@ -1,0 +1,9 @@
+{
+    "name": "sfch",
+    "license": "MIT",
+    "type": "module",
+    "main": "sfch.ts",
+    "devDependencies": {
+        "@types/node": "^26.4.0"
+    }
+}
